@@ -19,6 +19,7 @@ import pick from './helpers/pick';
 import qsa from './helpers/qsa';
 import toArray from './helpers/toArray';
 import values from './helpers/values';
+import { window, document } from './helpers/window';
 
 // Modules
 const logger = (process.env.NODE_ENV !== 'production')

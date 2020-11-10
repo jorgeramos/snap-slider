@@ -7,3 +7,6 @@ report.html
 
 # Cypress
 cypress/videos/
+
+# Local Development
+node_modules

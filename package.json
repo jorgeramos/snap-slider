@@ -47,6 +47,7 @@
     "element-closest": "^3.0.2",
     "lodash": "^4.17.19",
     "smoothscroll-polyfill": "^0.4.4",
+    "ssr-window": "^3.0.0",
     "tabbable": "^4.0.0"
   },
   "devDependencies": {
